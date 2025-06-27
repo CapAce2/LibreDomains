@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "name": "rbx",
+    "github": "CapAce2", 
+    "email": "1065854991@qq.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "38.246.245.91",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
